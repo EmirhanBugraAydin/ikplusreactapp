@@ -1,0 +1,49 @@
+{
+  "title": "Özelliklerimiz",
+  "text": "IK Plus ile tüm İK süreçlerinizi tek platformdan yönetin. Gelişmiş özelliklerimiz sayesinde İK departmanınızın verimliliğini artırın.",
+  "section": [
+    {
+      "title": "Personel Yönetimi",
+      "content": "Çalışan bilgilerini güvenle saklayın, özlük dosyalarını dijital ortamda yönetin, organizasyon şemalarını kolayca oluşturun.",
+      "icon": "team.svg"
+    },
+    {
+      "title": "İZİN TAKİBİ",
+      "content": "İzin süreçlerini otomatikleştirin, takvim entegrasyonu ile izinleri planlayın, raporları tek tıkla alın.",
+      "icon": "calendar.svg"
+    },
+    {
+      "title": "Bordro Yönetimi",
+      "content": "Maaş hesaplamalarını otomatikleştirin, yasal mevzuata uygun bordro süreçlerini yönetin, e-bordro ile kağıt israfını önleyin.",
+      "icon": "payment.svg"
+    },
+    {
+      "title": "Performans Değerlendirme",
+      "content": "360 derece performans değerlendirme, hedef takibi, yetkinlik bazlı değerlendirme ve kariyer planlama araçları.",
+      "icon": "performance.svg"
+    },
+    {
+      "title": "Doküman Yönetimi",
+      "content": "Açık pozisyonları yönetin, aday havuzu oluşturun ve işe alım süreçlerini hızlandırın.",
+      "icon": "document.svg",
+      "title": "Eğitim ve Gelişim",
+      "content": "Çalışanlarınıza eğitim fırsatları sunun, gelişim planları oluşturun, eğitimleri dijital ortamda takip edin.",
+      "icon": "education.svg"
+    },
+    {
+      "title": "Vardiya Yönetimi",
+      "content": "Çalışanların vardiya planlarını oluşturun, çalışma saatlerini takip edin, vardiya düzenlemelerini kolayca yapın.",
+      "icon": "shift.svg"
+    },
+    {
+      "title": "Aylık Raporlama",
+      "content": "İK süreçleriyle ilgili aylık raporlar oluşturun, çalışan performansı ve gelişimi hakkında özetler alın.",
+      "icon": "report.svg"
+    },
+    {
+      "title": "Çalışan Memnuniyeti Anketi",
+      "content": "Çalışan memnuniyetini ölçün, anketler ve geri bildirimlerle İK süreçlerinizi iyileştirin.",
+      "icon": "survey.svg"
+    }
+  ]
+}
